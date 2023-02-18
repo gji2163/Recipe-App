@@ -13,5 +13,3 @@ The app has 3 main functions:
   Search Display
   Detailed Display
   Add/Remove Favourite Recipes
-  
- 
